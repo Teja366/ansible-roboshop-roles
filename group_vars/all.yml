@@ -5,6 +5,8 @@ MySQL_host: mysql.devopswithbnvst.uno
 RabbitMQ_host: rabbitmq.devopswithbnvst.uno
 Catalogue_host: catalogue.devopswithbnvst.uno
 User_host: user.devopswithbnvst.uno
+Shipping_host: shipping.devopswithbnvst.uno
+Payment_host: payment.devopswithbnvst.uno
 
 
 # RabbitMQ credentials
