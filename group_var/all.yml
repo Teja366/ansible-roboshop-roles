@@ -1,2 +1,4 @@
-MongoDB_host: mongodb.devopswithbnvst.uno
 Redis_host: redis.devopswithbnvst.uno
+MongoDB_host: mongodb.devopswithbnvst.uno
+MySQL_host: mysql.devopswithbnvst.uno
+RabbitMQ_host: rabbitmq.devopswithbnvst.uno
