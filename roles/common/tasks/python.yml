@@ -13,3 +13,10 @@
     executable: pip3.9
   args:
     chdir: /app
+  
+  loop:
+  - cryptography
+  - PyMySQL
+  
+
+    
