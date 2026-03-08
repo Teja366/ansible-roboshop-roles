@@ -12,7 +12,7 @@ Environment=USER_PORT=8080
 Environment=AMQP_HOST={{ RabbitMQ_host }}
 // highlight-end
 Environment=AMQP_USER= {{ RABBITMQ_USER }}
-Environment=AMQP_PASS= {{ RABBITMQ_PASS }}
+Environment=AMQP_PASS= {{ RABBITMQ_PASSWORD }}
 
 ExecStart=/usr/local/bin/uwsgi --ini payment.ini
 ExecStop=/bin/kill -9 $MAINPID
