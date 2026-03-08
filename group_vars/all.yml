@@ -8,5 +8,5 @@ User_host: user.devopswithbnvst.uno
 
 
 # RabbitMQ credentials
-# RABBITMQ_USER: roboshop
-# RABBITMQ_PASSWORD: roboshop123
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
