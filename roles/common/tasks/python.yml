@@ -12,11 +12,6 @@
     requirements: requirements.txt
     executable: pip3.9
   args:
-    chdir: /app
-  
-  loop:
-  - cryptography
-  - PyMySQL
-  
+    chdir: /app  
 
     
