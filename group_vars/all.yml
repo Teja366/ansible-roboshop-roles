@@ -4,3 +4,4 @@ Cart_host: cart.devopswithbnvst.uno
 MySQL_host: mysql.devopswithbnvst.uno
 RabbitMQ_host: rabbitmq.devopswithbnvst.uno
 Catalogue_host: catalogue.devopswithbnvst.uno
+User_host: user.devopswithbnvst.uno

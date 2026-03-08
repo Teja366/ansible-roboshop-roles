@@ -20,7 +20,7 @@
 
 - name: Delete {{ component }} file
   ansible.builtin.file:
-    path: /tmp/{{ component }}.zip
+    path: /tmp/catalogue.zip
     state: absent
 
 - name: Downloading {{ component }} application
