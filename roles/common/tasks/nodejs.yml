@@ -12,3 +12,4 @@
 - name: installing dependencies
   community.general.npm:
       path: /app
+
